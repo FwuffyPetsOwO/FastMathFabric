@@ -2,7 +2,6 @@
   "schemaVersion": 1,
   "id": "FastMathFabric",
   "version": "${version}",
-
   "name": "Fast Math Fabric",
   "description": "Re-implements OptiFine's Fast Math feature as a Fabric mod",
   "authors": [
@@ -12,10 +11,8 @@
     "homepage": "",
     "sources": "https://github.com/FwuffyPetsOwO/FastMathFabric"
   },
-
   "license": "Apache v2",
   "icon": "assets/FastMathFabric/icon.png",
-
   "environment": "*",
   "entrypoints": {
     "main": [
@@ -25,7 +22,6 @@
   "mixins": [
     "FastMathFabric.mixins.json"
   ],
-
   "depends": {
     "fabricloader": ">=0.11.5",
     "fabric": "*",

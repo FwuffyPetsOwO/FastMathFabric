@@ -11,10 +11,15 @@ public class MixinMathHelper {
      * @author JellySquid
      */
     @Overwrite
-    public static float sin(float f) {return FastMath.sin(f);}
+    public static float sin(float f) {
+        return FastMath.sin(f);
+    }
+
     /**
      * @author JellySquid
      */
     @Overwrite
-    public static float cos(float f) {return FastMath.cos(f);}
+    public static float cos(float f) {
+        return FastMath.cos(f);
+    }
 }
