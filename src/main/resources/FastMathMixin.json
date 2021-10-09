@@ -4,6 +4,7 @@
   "package": "net.FwuffyPetsOwO.FastMath.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "MixinMathHelper"
   ],
   "client": [
   ],
