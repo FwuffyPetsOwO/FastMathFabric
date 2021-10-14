@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "FastMathFabric",
+  "id": "fastmathfabric",
   "version": "0.0.1",
   "name": "Fast Math Fabric",
   "description": "Re-implements OptiFine's Fast Math feature as a Fabric mod",
