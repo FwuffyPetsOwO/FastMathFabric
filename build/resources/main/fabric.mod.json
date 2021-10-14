@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "FastMathFabric",
-  "version": "${version}",
+  "version": "0.0.1",
   "name": "Fast Math Fabric",
   "description": "Re-implements OptiFine's Fast Math feature as a Fabric mod",
   "authors": [
@@ -24,6 +24,7 @@
   ],
   "depends": {
     "fabricloader": ">=0.11.5",
+    "fabric": "*",
     "minecraft": "1.17.x",
     "java": ">=16"
   }

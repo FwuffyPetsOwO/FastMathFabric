@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.FwuffyPetsOwO.FastMath.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "MixinMathHelper"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

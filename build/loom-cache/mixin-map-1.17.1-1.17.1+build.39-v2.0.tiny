@@ -1,0 +1,3 @@
+v1	named	intermediary
+METHOD	net/FwuffyPetsOwO/FastMath/mixin/MixinMathHelper	(F)F	sin	method_15374
+METHOD	net/FwuffyPetsOwO/FastMath/mixin/MixinMathHelper	(F)F	cos	method_15362
