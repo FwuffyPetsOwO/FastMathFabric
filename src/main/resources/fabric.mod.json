@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "iriscordmathfabric",
+  "id": "fastmathfabric",
   "version": "${version}",
-  "name": "Fast Math Fabric - Iriscord Edition",
-  "description": "Changes math to suggestions from the Iris Shaders discord server",
+  "name": "Fast Math Fabric",
+  "description": "Re-implements OptiFine's Fast Math feature as a Fabric mod",
   "authors": [
     "FwuffyPetsOwO"
   ],
