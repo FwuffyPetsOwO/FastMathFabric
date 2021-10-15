@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "fastmathfabric",
+  "id": "smallanglesmathfabric",
   "version": "${version}",
-  "name": "Fast Math Fabric",
+  "name": "Fast Math Fabric - All Small Angles",
   "description": "Re-implements OptiFine's Fast Math feature as a Fabric mod",
   "authors": [
     "FwuffyPetsOwO"
