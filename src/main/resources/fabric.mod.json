@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "smallanglesmathfabric",
   "version": "${version}",
-  "name": "Fast Math Fabric - All Small Angles",
-  "description": "Re-implements OptiFine's Fast Math feature as a Fabric mod",
+  "name": "Fast Math Fabric - All Small Angles Edition",
+  "description": "Makes every angle apply the small-angle approximation (sin x = x, cos x = 1)",
   "authors": [
     "FwuffyPetsOwO"
   ],
