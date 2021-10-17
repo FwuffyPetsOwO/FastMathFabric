@@ -28,6 +28,7 @@
     "java": ">=16"
   },
   "breaks": {
-    "lithium": "*"
+    "lithium": "*",
+    "optifabric": "*"
   }
 }
