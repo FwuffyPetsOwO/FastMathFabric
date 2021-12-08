@@ -10,5 +10,4 @@ public class FastMath {
     public static float cos(float value) {
         return 1;
     }
-
 }
