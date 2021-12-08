@@ -23,9 +23,9 @@
     "FastMathMixin.json"
   ],
   "depends": {
-    "fabricloader": ">=0.11.5",
-    "minecraft": "1.17.x",
-    "java": ">=16"
+    "fabricloader": ">=0.12.6",
+    "minecraft": "1.18.x",
+    "java": ">=17"
   },
   "breaks": {
     "lithium": "*",

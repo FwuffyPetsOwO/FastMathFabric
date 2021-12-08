@@ -20,7 +20,7 @@ public class FastMath {
     }
 
     public static float roundToFloat(double d) {
-        return (float) ((double) Math.round(d * 1.0E8D) / 1.0E8D);
+        return (float) (Math.round(d * 1.0E8D) / 1.0E8D);
     }
 
 }
